@@ -1,6 +1,13 @@
-// $('#para')
-//     .addClass('btn-danger');
+$('.button')
+    .addClass('btn-danger')
 
-// $('#addHome')
-//     .removeClass('btn-danger')
-//     .addClass('btn-success');
+$('#addSkill').on('click', function(evt) {
+
+   console.log(evt.target); 
+});
+
+
+var input = $('#inputLine')
+
+
+

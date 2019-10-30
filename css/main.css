@@ -1,0 +1,40 @@
+h3 {
+    background-color: #91CD84;
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    font: Helvetica;
+    color: white;
+}
+
+body {
+    text-align: inline;
+    padding: 100px;
+    width: 600px;
+}
+
+.para {
+    text-align: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F4AD4B;
+}
+
+#addSkill {
+    background-color: white;
+    color: #91CD84;
+    border-color: #91CD84;
+    border-width: 3px;
+    padding: 5px 5px 5px 5px;
+}
+
+#input {
+    display: flex;
+    flex-direction: row;
+}
+
+#inputLine {
+    padding: 5px 160px 5px 5px;
+    border-color: #91CD84;
+}
