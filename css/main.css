@@ -11,14 +11,17 @@ h3 {
 
 body {
     text-align: inline;
-    padding: 100px;
-    width: 600px;
+    padding: 300px 450px;
+    width: auto;
+    height: auto;
+    position: absolute;
 }
 
 .para {
     text-align: inline;
     font-family: Arial, Helvetica, sans-serif;
     color: #F4AD4B;
+    font-size: 15px;
 }
 
 #addSkill {
@@ -35,6 +38,6 @@ body {
 }
 
 #inputLine {
-    padding: 5px 160px 5px 5px;
+    padding: 5px 186px 5px 5px;
     border-color: #91CD84;
 }
